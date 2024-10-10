@@ -1,0 +1,55 @@
+{
+  "user": {
+    "avatar_url": "https://avatars.githubusercontent.com/u/86447167?v=4",
+    "name": "JAMES JAROSZ",
+    "bio": "Je suis développeur full-stack basé à Lille et créateur de Planr, mon projet de fin d'études. J'aime résoudre des problèmes complexes en front-end et back-end avec des solutions simples et élégantes, et je suis passionné par la création de produits qui offrent une expérience utilisateur agréable."
+  },
+  "contact": {
+    "email": "jamesjaroszadt@gmail.com",
+    "linkedin_url": "https://www.linkedin.com/in/james-jarosz-fr/",
+    "github_url": "https://github.com/jmsjrz",
+    "contact_text": "Travaillons ensemble ! 🚀",
+    "contact_description": "Si vous êtes à la recherche d'un développeur ou si vous avez des questions concernant mon profil, contactez-moi !",
+    "button_label": "Me contacter",
+    "footer_note": "Portfolio développé par James JAROSZ en React.js | Copyright © 2024"
+  },
+  "texts": {
+    "profile_greeting": "BONJOUR, JE SUIS JAMES JAROSZ !👋",
+    "projects_title": "Mes projets publics",
+    "projects_description": "Voici quelques-uns de mes projets récents. Cliquez pour en savoir plus et découvrir ce que j'ai développé."
+  },
+  "userRepo": [
+    {
+      "id": 1,
+      "name": "Planr App",
+      "html_url": "https://github.com/jmsjrz/planr-app",
+      "description": "Une application de gestion d'événements qui permet de planifier, gérer et partager des événements avec des amis. Utilise React, Node.js et MongoDB pour une expérience utilisateur fluide.",
+      "languages": ["JavaScript", "React", "Node.js"],
+      "live_demo_url": "https://planr-app-demo.com"
+    },
+    {
+      "id": 2,
+      "name": "Portfolio JJDEV",
+      "html_url": "",
+      "description": "Portfolio personnel développé en React.js pour présenter mes projets et compétences en développement web.",
+      "languages": ["JavaScript", "React"],
+      "live_demo_url": "https://jmsjrz.github.io/portfolio_jjdev"
+    },
+    {
+      "id": 2,
+      "name": "Portfolio JJDEV",
+      "html_url": "",
+      "description": "Portfolio personnel développé en React.js pour présenter mes projets et compétences en développement web.",
+      "languages": ["JavaScript", "React"],
+      "live_demo_url": "https://jmsjrz.github.io/portfolio_jjdev"
+    },
+    {
+      "id": 2,
+      "name": "Portfolio JJDEV",
+      "html_url": "",
+      "description": "Portfolio personnel développé en React.js pour présenter mes projets et compétences en développement web.",
+      "languages": ["JavaScript", "React"],
+      "live_demo_url": "https://jmsjrz.github.io/portfolio_jjdev"
+    }
+  ]
+}
